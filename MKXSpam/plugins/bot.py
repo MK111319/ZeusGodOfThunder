@@ -94,7 +94,7 @@ async def ping1(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"🍷 ⛦‌𝙈𝘼𝙍𝘾𝙊𝙎🍷.!\n`{ms}` ms\n⚔️ ★⃟⃝🥀𓆩𝐙𝐄𝐔𝐒 𓆩𝙊𝙋𓆪🥀✘ 𝙎𝙋𝘼𝙈𝘽𝙊𝙏 ⚔️")
+        await event.edit(f"🥳🇬 ᴀɴᴅ 🇴 ᴘ🤩\n\n𓆩🇻𝙀𝙉𝙊𝙈 🇽𝘿✮‌.⃝⃡⃝❦ X sᴘᴀᴍ ϟ `{ms}` ᴍs")
 
 
 @MK1.on(events.NewMessage(incoming=True, pattern=r"\%sping2(?: |$)(.*)" % hl))
@@ -114,7 +114,7 @@ async def ping2(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"🔥🥳𝐒𝐏𝐄𝐄𝐃🔥🥳!\n`{ms}` 𝗺𝘀\n🤩🥀—𝙁・𝙐𝘾𝙆 𓆩𝙊𝙁𝙁 🤫😂𓆪🥀 𝐒𝐏𝐀𝐌𝐁𝐎𝐓🤩")
+        await event.edit(f"😘🇬 ᴀɴᴅ 🇴 ᴘ😎\n\n𓆩🇻𝙀𝙉𝙊𝙈 🇽𝘿✮‌.⃝⃡⃝❦ X sᴘᴀᴍ ϟ `{ms}` ᴍs")
 
 
 @MK1.on(events.NewMessage(incoming=True, pattern=r"\%sping3(?: |$)(.*)" % hl))
@@ -134,7 +134,7 @@ async def ping3(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"🍷 𝐑𝐈𝐒𝐇𝐈𝐊𝐀🍷.!\n`{ms}` ms\n⚔️ 𝐋𝐨𝐯𝐞 ❤️  𓆩𝐙𝐄𝐔𝐒𓆪 ⚔️")
+        await event.edit(f"😈🇬 ᴀɴᴅ 🇴 ᴘ🖕🏻\n\n𓆩🇻𝙀𝙉𝙊𝙈 🇽𝘿✮‌.⃝⃡⃝❦ X sᴘᴀᴍ ϟ `{ms}` ᴍs")
         
         
 
